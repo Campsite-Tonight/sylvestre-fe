@@ -1,0 +1,14 @@
+.CampList {
+    h3 {
+        font-family: monospace;
+    }
+
+    span {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    li {
+        width: 70vw;
+        padding: 1em;
+    }
+}
